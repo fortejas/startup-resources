@@ -4,6 +4,7 @@ Hi, this is a bunch of resources that I've accumlated while helping startups bui
 
 # Future Live Sessions
 
+
 <table>
     <thead>
         <tr><th>Date</th><th>Link</th><th>Description</th></tr>
@@ -16,6 +17,7 @@ Hi, this is a bunch of resources that I've accumlated while helping startups bui
         </tr>
     <tbody>
 </table>
+
 
 # Well Architected
 
