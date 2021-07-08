@@ -19,6 +19,4 @@ Hi, this is a bunch of resources that I've accumlated while helping startups bui
 <a
     href="https://youtube.com/playlist?list=PLhr1KZpdzukdc8hT9hCF8hwfWkYAX-frO"
     target="_blank"
->
-    YouTube Playlist - AWS Well-Architected for Startups
-</a>
+>YouTube Playlist - AWS Well-Architected for Startups</a>
