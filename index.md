@@ -15,7 +15,7 @@ Hi, this is a bunch of resources that I've accumlated while helping startups bui
             <td><a href="https://app.chime.aws/321323">Hosted on Chime</a></td>
             <td>Tech Tuesday - Media services and Rendering</td>
         </tr>
-    <tbody>
+    </tbody>
 </table>
 
 
