@@ -1,0 +1,7 @@
+site_name: Technical Resources for Startups
+
+theme:
+  name: material
+
+extra_css:
+  - stylesheets/extra.css
